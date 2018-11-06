@@ -163,7 +163,7 @@ background:(to top, #ffffff 0, rgba(22,22,22,.0) 75%, rgba(22,22,22,.8) 100%)
 @media (min-width:992px) {
 .projects-section .featured-text {
 	padding: 0 0 0 2rem;
-	border-left: .5rem solid #85d3ff
+	border-left: .5rem solid #000000
 }
 }
 .projects-section .project-text {
